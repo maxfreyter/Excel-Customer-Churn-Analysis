@@ -17,17 +17,18 @@ I used to work in customer service and I remember customers threatening to stop 
 1. **Churn Reasons (Bar Chart):** Highlights the most common reasons for churn.
 2. **Churn by Age Group (Bar Chart):** Analyzes churn trends across different age groups.
 3. **Competitor Churn Analysis (Pie Chart):** Breaks down competitor-related churn factors.
-4. **Churn Rate by Plan and Monthly Consumption Level (Stacked Bar Chart):** Examines how plan types and data usage impact churn. 5.
-5. **State-by-State Churn Overview (Heatmap):** Displays churn rates across different states for targeted analysis. --- ##
-6. **Key Recommendations** 1.
-7. **Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 2.
-8. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 3.
-9. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 4.
-10. **Age-Specific Strategies:** -
-11. **For younger customers (29-38):** Improve engagement and rewards programs. -
-12. **For older customers (69-78):** Focus on reliability and personalized service. ---
-13. ## **Tools Used**
-14. - **Excel**: For data analysis and visualization.
+4. **Churn Rate by Plan and Monthly Consumption Level (Stacked Bar Chart):** Examines how plan types and data usage impact churn. 
+5. **State-by-State Churn Overview (Heatmap):** Displays churn rates across different states for targeted analysis. ---
+6. ##
+7. **Key Recommendations** 1.
+8. **Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 2.
+9. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 3.
+10. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 4.
+11. **Age-Specific Strategies:** -
+12. **For younger customers (29-38):** Improve engagement and rewards programs. -
+13. **For older customers (69-78):** Focus on reliability and personalized service. ---
+14. ## **Tools Used**
+15. - **Excel**: For data analysis and visualization.
 --- 
 ## **About This Project** This project is a hands-on exercise in churn analysis and demonstrates my ability to: - Analyze key business problems. - Use data visualization to communicate insights. - Develop actionable recommendations to improve business performance.
 

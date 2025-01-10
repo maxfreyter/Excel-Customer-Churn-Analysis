@@ -20,9 +20,9 @@ I used to work in customer service and I remember customers threatening to stop 
 4. **Churn Rate by Plan and Monthly Consumption Level (Stacked Bar Chart):** Examines how plan types and data usage impact churn. 
 5. **State-by-State Churn Overview (Heatmap):** Displays churn rates across different states for targeted analysis. ---
  ## **Key Recommendations**
-1.**Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 
+1. **Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 
 2. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 
-3. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 4.
+3. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 
 4. **Age-Specific Strategies:** 
 5. **For younger customers (29-38):** Improve engagement and rewards programs. -
 6. **For older customers (69-78):** Focus on reliability and personalized service. ---

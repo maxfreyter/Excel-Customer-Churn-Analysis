@@ -24,8 +24,8 @@ I used to work in customer service and I remember customers threatening to stop 
 2. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 
 3. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 
 4. **Age-Specific Strategies:** 
-5. **For younger customers (29-38):** Improve engagement and rewards programs. -
-6. **For older customers (69-78):** Focus on reliability and personalized service. ---
+a. **For younger customers (29-38):** Improve engagement and rewards programs.
+b. **For older customers (69-78):** Focus on reliability and personalized service. 
 14. ## **Tools Used**
 15. - **Excel**: For data analysis and visualization.
 --- 

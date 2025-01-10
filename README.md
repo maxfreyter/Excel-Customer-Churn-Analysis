@@ -7,7 +7,7 @@ I used to work in customer service and I remember customers threatening to stop 
 ## **Overview** This project analyzes customer churn for a telecom company, focusing on identifying key drivers behind customer attrition and providing actionable insights to reduce churn. Using comprehensive dashboards, the project highlights customer behavior trends, demographic analysis, and competitive factors. The analysis was built using **Excel**, demonstrating the power of data visualization and business intelligence techniques to communicate critical insights effectively. --- 
 ## **Dashboard Highlights** 
 ### **Key Metrics** - 
-**Total Customers:** 6,687 - **Churned Customers:** 1,796 - **Churn Rate:** 26.86% - Nearly **1 in 4 customers** left during the analysis period. --- 
+**Total Customers:** 6,687 - **Churned Customers:** 1,796 - **Churn Rate:** 26.86% - Nearly **1 in 4 customers** left during the analysis period.
 ### **Insights from the Analysis** 
 #### **1. Churn Reasons** - Top churn drivers are related to **competition** and **customer service**: - **71.88% of customers** churned because competitors offered better deals or services. - Poor customer support, including "Attitude of support person," was another significant reason for churn. - **Action:** Improve competitive pricing, offerings, and customer support. 
 #### **2. Churn by Age Group** - **Age Group 29-38** has the highest churn volume. - **Age Group 69-78** has the highest churn rate percentage. - **Action:** Tailor retention strategies for both younger customers (focus on engagement) and older customers (focus on reliability and tailored offerings). 
@@ -19,14 +19,13 @@ I used to work in customer service and I remember customers threatening to stop 
 3. **Competitor Churn Analysis (Pie Chart):** Breaks down competitor-related churn factors.
 4. **Churn Rate by Plan and Monthly Consumption Level (Stacked Bar Chart):** Examines how plan types and data usage impact churn. 
 5. **State-by-State Churn Overview (Heatmap):** Displays churn rates across different states for targeted analysis. ---
-6. ##
-7. **Key Recommendations** 1.
-8. **Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 2.
-9. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 3.
-10. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 4.
-11. **Age-Specific Strategies:** -
-12. **For younger customers (29-38):** Improve engagement and rewards programs. -
-13. **For older customers (69-78):** Focus on reliability and personalized service. ---
+ ## **Key Recommendations**
+1.**Competitive Analysis:** - Benchmark competitor offerings and provide better deals for heavy data users and unlimited plan customers. 
+2. **Customer Service Improvements:** - Train support teams to improve interactions and resolve issues quickly. 
+3. **State-Focused Retention Campaigns:** - Focus on high-churn states like California and Indiana with targeted promotions and loyalty programs. 4.
+4. **Age-Specific Strategies:** 
+5. **For younger customers (29-38):** Improve engagement and rewards programs. -
+6. **For older customers (69-78):** Focus on reliability and personalized service. ---
 14. ## **Tools Used**
 15. - **Excel**: For data analysis and visualization.
 --- 
